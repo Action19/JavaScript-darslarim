@@ -1,1 +1,1 @@
-# fantastic-octo-garbanzo
+JavaScriptda bajargan ishlarim
